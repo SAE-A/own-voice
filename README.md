@@ -35,4 +35,4 @@ It allows users to record their own voice, view the transcription, and practice 
 
 - 📄 [앱 소개 PPT (PDF)](./own-voice.pdf)
 
-- 🎥 발표 영상 (YouTube)
+- 🎥 [발표 영상 (YouTube)](https://youtu.be/IFuNeFWWp_U)
